@@ -1,0 +1,13 @@
+name: table-extraction
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.8*
+  - pip:
+    - decorator==4.4.2
+    - fire==0.3.1
+    - networkx==2.5
+    - pydash==4.9.0
+    - six==1.15.0
+    - termcolor==1.1.0
