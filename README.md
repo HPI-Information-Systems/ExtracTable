@@ -17,6 +17,7 @@ To demonstrate the capabilities of ExtracTable, we developed a demo web app, ava
 Content of this repository:
 - [Expose](Expose.pdf)
 - [Master thesis](Master%20thesis.pdf)
+- [Masterthon slides](Masterthon.pdf)
 - [ExtracTable Implementation (Python)](table-extraction)
 - [Annotation tool (React)](labeling-tool)
 - [Evaluation code (Python)](evaluation)
