@@ -1,7 +1,7 @@
 # ExtracTable
 
-Tables are a commonly used way for organizing and exchanging data. 
-To allow generic use, tables are stored in plain text files that might include non-table content such as metadata. 
+Tables are a commonly used way for organizing and exchanging data.
+To allow generic use, tables are stored in plain text files that might include non-table content such as metadata.
 Comma-separated values (CSV) and layout features (ASCII) are two prevalent ways to represent tables.
 Although there is a specification for the CSV format, users develop variations with customized field separators and table layouts. Thus, before data scientists can analyze the data of such tables, they need to configure the parsers for each file manually. This process is not only time-consuming but also repetitive and error-prone.
 
@@ -18,6 +18,7 @@ Content of this repository:
 - [Expose](Expose.pdf)
 - [Master thesis](Master%20thesis.pdf)
 - [Masterthon slides](Masterthon.pdf)
+- [Final presentation thesis](Final%20presentation.pdf)
 - [ExtracTable Implementation (Python)](table-extraction)
 - [Annotation tool (React)](labeling-tool)
 - [Evaluation code (Python)](evaluation)
