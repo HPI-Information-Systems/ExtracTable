@@ -15,6 +15,7 @@ We evaluate our algorithm on a data set consisting of about 1,000 files taken fr
 To demonstrate the capabilities of ExtracTable, we developed a demo web app, available from within the university network.
 
 Content of this repository:
+- [Demo](Demo%20ExtracTable.mp4)
 - [Expose](Expose.pdf)
 - [Master thesis](Master%20thesis.pdf)
 - [Masterthon slides](Masterthon.pdf)
